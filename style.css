@@ -9,6 +9,17 @@
   position: relative;
   margin: auto;
 }
+body{
+  background-image: radial-gradient(#192c62, rgb(31, 31, 31));
+}
+
+  img {
+    /* max-width: 100%;
+    height: auto; */
+    width:50%;
+    height:450px;
+  }
+}
 
 /* Hide the images by default */
 .mySlides {
