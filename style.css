@@ -13,12 +13,14 @@ body{
   background-image: radial-gradient(#192c62, rgb(31, 31, 31));
 }
 
-  img {
+  /* img {
     /* max-width: 100%;
     height: auto; */
     width:50%;
     height:450px;
-  }
+  } */
+imf{
+  transform:scale(0.5)
 }
 
 /* Hide the images by default */
